@@ -2,3 +2,4 @@
 /fxboot-core/target/
 /fxboot-samples/target/
 /.idea/
+/*.iml
